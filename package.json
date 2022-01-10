@@ -43,9 +43,9 @@
   },
   "dependencies": {
     "diff": "^5.0.0",
-    "diff2html": "^3.4.5",
+    "diff2html": "3.4.0",
     "highlight.js": "^10.5.0",
-    "vue-demi": "latest"
+    "vue-demi": "0.10.1"
   },
   "devDependencies": {
     "@ant-design-vue/use": "^0.0.1-alpha.10",
