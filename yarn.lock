@@ -7922,10 +7922,10 @@ vscode-vue-languageservice@^0.27.0:
     vscode-pug-languageservice "^0.27.14"
     vscode-typescript-languageservice "^0.27.17"
 
-vue-demi@*, vue-demi@latest:
-  version "0.9.1"
-  resolved "https://registry.nlark.com/vue-demi/download/vue-demi-0.9.1.tgz#25d6e1ebd4d4010757ff3571e2bf6a1d7bf3de82"
-  integrity sha1-Jdbh69TUAQdX/zVx4r9qHXvz3oI=
+vue-demi@0.10.1:
+  version "0.10.1"
+  resolved "http://r.npm.sankuai.com/vue-demi/download/vue-demi-0.10.1.tgz#229b81395510f02f4ee255344557a12cc0120930"
+  integrity sha1-IpuBOVUQ8C9O4lU0RVehLMASCTA=
 
 vue-eslint-parser@^7.10.0, vue-eslint-parser@^7.11.0:
   version "7.11.0"
