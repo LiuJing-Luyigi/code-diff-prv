@@ -1,7 +1,7 @@
 {
-  "name": "v-code-diff",
+  "name": "code-diff-prv",
   "description": "A diff plugin of vue, support vue2 and vue3",
-  "version": "0.3.8",
+  "version": "0.3.8-beta",
   "scripts": {
     "dev": "vite",
     "build": "npx rimraf dist && rollup --config rollup.config.js",
@@ -23,8 +23,8 @@
     "code",
     "diff"
   ],
-  "author": "Shimada666<649940882@qq.com>",
-  "license": "MIT",
+  "author": "Shimada666 <649940882@qq.com>",
+  "license": "UNLICENSED",
   "bugs": {
     "url": "https://github.com/Shimada666/v-code-diff/issues"
   },
@@ -108,5 +108,6 @@
       "eslint  --ext .ts,.vue,.tsx src",
       "git add"
     ]
-  }
+  },
+  "homepage": "https://github.com/Shimada666/v-code-diff#readme"
 }
