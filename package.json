@@ -30,7 +30,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Shimada666/v-code-diff.git"
+    "url": "git+https://github.com/LiuJing-Luyigi/code-diff-prv.git"
   },
   "peerDependencies": {
     "@vue/composition-api": "^1.0.0-beta.1",
@@ -109,5 +109,5 @@
       "git add"
     ]
   },
-  "homepage": "https://github.com/Shimada666/v-code-diff#readme"
+  "homepage": "https://github.com/LiuJing-Luyigi/code-diff-prv"
 }
